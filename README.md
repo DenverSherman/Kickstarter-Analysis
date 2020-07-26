@@ -28,6 +28,8 @@ Formula quoted above is for the highlighted cell. For group 'Greater Than 50000'
 
 ![Outcomes Based on Goal Table](https://github.com/DenverSherman/Kickstarter-Analysis/blob/master/Resources/CountIfs_Analysis.png)
 
+The resultant line chart is shown here:
+
 ![Outcomes Based on Goal](https://github.com/DenverSherman/Kickstarter-Analysis/blob/master/Resources/Outcomes_vs_Goals.png)
 
 ### Results
